@@ -1,0 +1,22 @@
+{
+  "name": "vue-loader-hmr-bug",
+  "version": "1.0.0",
+  "description": "```sh # Terminal tab 1 cd vue-loader-hmr-bug npm install npm run serve",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server . --port 9000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldenning/vue-loader-hmr-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeldenning/vue-loader-hmr-bug/issues"
+  },
+  "homepage": "https://github.com/joeldenning/vue-loader-hmr-bug#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
